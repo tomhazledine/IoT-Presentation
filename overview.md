@@ -24,3 +24,9 @@
 * Trains: 1mph = $200k
 * Wind Turbine Turbulence
 
+## Call to Action
+
+* 70% of energy consumption is (or can be) electricity.
+* Smart energy markets naturally favour renewables.
+* The Internet of Toys will set the standards and protocols.
+* It's much easier to innovate with products that don't kill people.
