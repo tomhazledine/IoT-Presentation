@@ -23,5 +23,10 @@ Proven reserves of CO<sub>2</sub>.
 
 https://scripps.ucsd.edu/programs/keelingcurve/
 
+## Opec
 
+Since June 2014, oil prices have more than halved, falling from more than $115 per barrel to under $40 on Monday.
+Historically, oil cartel Opec has cut production to support prices, but so far the group has not made any changes.
+On Friday, the group agreed again to maintain supply at current levels.
 
+http://www.bbc.co.uk/news/business-35049307
